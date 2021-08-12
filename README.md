@@ -25,3 +25,12 @@
   <img align="center" alt="rayra-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="rayra-c height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
+                                                                                                                                                
+##
+ <div>
+  <a href="https://www.instagram.com/rayra_pereirax/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                                      badge&logo=instagram&logoColor=white" target="_blank"></a>                
+  <a href="https://www.linkedin.com/in/rayra-pereira-45a22b191" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-                              badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="" target="_blank"<img src="for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>                                                                                                                                                
+                                                                                                                                               
+   
