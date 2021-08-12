@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayratargdy&show_icons=true&theme=dracula&include_all_comics=true&count_private=true"/>
   </a>
   <a href="https://github.com/rayratargy/convoychat">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayratargdy&layout=compact&langs_count=16&theme=dracula"/>
+  <img  align="center" ![TOP Linguagens] src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayratargdy&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div> 
 
