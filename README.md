@@ -1,10 +1,8 @@
 ### Hi there, I'm Rayra 👋
 
-- 🔭 I’m currently working on Web&Mobile Development and ChatBots;
-- 🌱 I’m currently learning: Ionic; 
-- 📫 How to reach me: rayrahpgw1997@gmail.com; 
-- 😄 Pronouns: she/her; 
-- ⚡ Fun fact: I like geek stuff;  
+📫 How to reach me: rayrahpgw1997@gmail.com; 
+😄 Pronouns: she/her; 
+⚡ Fun fact: I like geek stuff;  
 
 <div>
   <a href="https://github.com/rayratargdy/github-readme-stats">
