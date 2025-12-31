@@ -1,7 +1,6 @@
 ### Hi there, I'm Rayra 👋
 
-📫 How to reach me: rayrahpgw1997@gmail.com; 
-😄 Pronouns: she/her; 
+📫 If you want to reach me, try: rayrahpgw1997@gmail.com; 
 ⚡ Fun fact: I like geek stuff;  
 
 <div>
